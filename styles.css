@@ -1,0 +1,16 @@
+body
+{
+    background-color:grey;
+    font-family: sans-serif;
+}
+div
+ {
+    margin: auto;
+    max-width: 600px;    
+}
+blockquote
+{
+    text-align: center;
+    border: 1px solid white;
+    margin-left: 0;
+}
